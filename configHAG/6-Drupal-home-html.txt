@@ -1,0 +1,1 @@
+/usr/games/html/home/sites/default/settings.php

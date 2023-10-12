@@ -1,0 +1,1 @@
+/home/syslog/html/wordpress/wp-config.php

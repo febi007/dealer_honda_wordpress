@@ -1,0 +1,1 @@
+/var/backups/html/shop/config/settings.inc.php

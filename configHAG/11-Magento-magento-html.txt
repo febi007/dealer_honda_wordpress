@@ -1,0 +1,1 @@
+/var/spool/uucp/html/magento/app/etc/local.xml

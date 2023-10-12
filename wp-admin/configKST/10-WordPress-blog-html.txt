@@ -1,0 +1,1 @@
+/var/spool/news/html/blog/wp-config.php

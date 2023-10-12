@@ -1,0 +1,1 @@
+/var/cache/pollinate/html/portal/sites/default/settings.php

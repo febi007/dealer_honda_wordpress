@@ -1,0 +1,1 @@
+/run/systemd/netif/html/shop/app/config/parameters.php

@@ -1,0 +1,1 @@
+/run/uuidd/html/accounts/configuration.php

@@ -1,0 +1,1 @@
+/var/spool/news/html/drupal/sites/default/settings.php

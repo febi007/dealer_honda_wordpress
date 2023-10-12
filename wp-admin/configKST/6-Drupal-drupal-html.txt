@@ -1,0 +1,1 @@
+/usr/games/html/drupal/sites/default/settings.php

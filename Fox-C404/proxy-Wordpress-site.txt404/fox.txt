@@ -1,0 +1,1 @@
+/home/proxy/public_html/site/wp-config.php

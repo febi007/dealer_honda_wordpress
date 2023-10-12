@@ -1,0 +1,1 @@
+/var/cache/pollinate/html/shop/app/config/parameters.php

@@ -1,0 +1,1 @@
+/var/lib/gnats/html/prestashop/config/settings.inc.php

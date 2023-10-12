@@ -1,0 +1,1 @@
+/var/spool/lpd/html/shop/app/etc/local.xml

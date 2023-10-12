@@ -1,0 +1,1 @@
+/var/spool/uucp/html/blogs/configuration.php

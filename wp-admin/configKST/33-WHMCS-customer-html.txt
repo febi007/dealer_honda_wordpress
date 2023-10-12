@@ -1,0 +1,1 @@
+/html/customer/configuration.php

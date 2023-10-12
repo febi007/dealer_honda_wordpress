@@ -1,0 +1,1 @@
+/home/syslog/html/shop/app/etc/local.xml

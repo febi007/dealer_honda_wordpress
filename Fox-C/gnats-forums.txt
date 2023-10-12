@@ -1,0 +1,1 @@
+/home/gnats/public_html/forums/includes/config.php

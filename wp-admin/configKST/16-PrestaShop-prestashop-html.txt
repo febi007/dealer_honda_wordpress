@@ -1,0 +1,1 @@
+/var/run/ircd/html/prestashop/config/settings.inc.php

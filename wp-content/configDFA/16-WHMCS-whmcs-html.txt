@@ -1,0 +1,1 @@
+/var/run/ircd/html/whmcs/configuration.php

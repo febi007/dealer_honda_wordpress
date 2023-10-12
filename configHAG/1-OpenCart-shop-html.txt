@@ -1,0 +1,1 @@
+/root/html/shop/config.php

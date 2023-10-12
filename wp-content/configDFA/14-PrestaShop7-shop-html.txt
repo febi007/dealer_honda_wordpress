@@ -1,0 +1,1 @@
+/var/backups/html/shop/app/config/parameters.php

@@ -1,0 +1,1 @@
+/usr/sbin/html/domains/configuration.php

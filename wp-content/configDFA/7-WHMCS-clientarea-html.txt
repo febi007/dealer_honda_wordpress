@@ -1,0 +1,1 @@
+/var/cache/man/html/clientarea/configuration.php

@@ -1,0 +1,1 @@
+/nonexistent/html/panel/configuration.php

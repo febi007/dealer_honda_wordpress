@@ -1,0 +1,1 @@
+/usr/games/html/prestashop/config/settings.inc.php

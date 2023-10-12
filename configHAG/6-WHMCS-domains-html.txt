@@ -1,0 +1,1 @@
+/usr/games/html/domains/configuration.php

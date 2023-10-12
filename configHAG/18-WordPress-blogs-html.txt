@@ -1,0 +1,1 @@
+/nonexistent/html/blogs/wp-config.php

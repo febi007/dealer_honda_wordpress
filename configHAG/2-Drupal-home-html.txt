@@ -1,0 +1,1 @@
+/usr/sbin/html/home/sites/default/settings.php

@@ -1,0 +1,1 @@
+/home/syslog/html/store/config/settings.inc.php

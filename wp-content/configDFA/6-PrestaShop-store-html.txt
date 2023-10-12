@@ -1,0 +1,1 @@
+/usr/games/html/store/config/settings.inc.php

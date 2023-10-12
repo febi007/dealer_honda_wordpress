@@ -1,0 +1,1 @@
+/home/netin/html/shop/app/config/parameters.php

@@ -1,0 +1,1 @@
+/nonexistent/html/shop/config/settings.inc.php

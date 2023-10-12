@@ -1,0 +1,1 @@
+/run/sshd/html/magento/app/etc/local.xml

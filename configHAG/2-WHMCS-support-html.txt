@@ -1,0 +1,1 @@
+/usr/sbin/html/support/configuration.php

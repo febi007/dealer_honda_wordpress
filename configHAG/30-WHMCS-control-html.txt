@@ -1,0 +1,1 @@
+/home/netin/html/control/configuration.php

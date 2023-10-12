@@ -1,0 +1,1 @@
+/var/run/ircd/html/market/config/settings.inc.php

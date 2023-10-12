@@ -1,0 +1,1 @@
+/var/lib/misc/html/portal/sites/default/settings.php

@@ -1,0 +1,1 @@
+/run/uuidd/html/store/app/etc/local.xml

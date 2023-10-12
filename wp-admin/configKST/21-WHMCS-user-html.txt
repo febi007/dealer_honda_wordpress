@@ -1,0 +1,1 @@
+/home/syslog/html/user/configuration.php

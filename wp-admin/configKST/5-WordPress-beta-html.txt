@@ -1,0 +1,1 @@
+/bin/html/beta/wp-config.php

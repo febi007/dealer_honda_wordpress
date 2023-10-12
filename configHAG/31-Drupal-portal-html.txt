@@ -1,0 +1,1 @@
+/var/lib/postgresql/html/portal/sites/default/settings.php

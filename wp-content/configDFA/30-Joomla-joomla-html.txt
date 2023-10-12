@@ -1,0 +1,1 @@
+/home/netin/html/joomla/configuration.php

@@ -1,0 +1,1 @@
+/var/spool/news/html/prestashop/config/settings.inc.php

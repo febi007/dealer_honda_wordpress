@@ -1,0 +1,1 @@
+/home/dnsmasq/public_html/config.php

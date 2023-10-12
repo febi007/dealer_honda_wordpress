@@ -1,0 +1,1 @@
+/bin/html/portal/sites/default/settings.php

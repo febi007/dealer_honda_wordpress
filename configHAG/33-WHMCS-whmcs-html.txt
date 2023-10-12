@@ -1,0 +1,1 @@
+/html/whmcs/configuration.php

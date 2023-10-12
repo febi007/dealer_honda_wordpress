@@ -1,0 +1,1 @@
+/root/html/blogs/configuration.php

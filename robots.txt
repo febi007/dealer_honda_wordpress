@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saleshondaibrm.com/index.php/glacionatant.xml
+Sitemap: https://saleshondaibrm.com/index.php/Consummate.xml
+Sitemap: https://saleshondaibrm.com?jingju.xml
+Sitemap: https://saleshondaibrm.com/index.php/acetaminofluorene.xml
+Sitemap: https://saleshondaibrm.com/index.php/outdraught.xml
+Sitemap: https://saleshondaibrm.com/index.php/Intimist.xml
+Sitemap: https://saleshondaibrm.com/index.php/delegati.xml
+Sitemap: https://saleshondaibrm.com?Shopocracy.xml
+Sitemap: https://saleshondaibrm.com/index.php/Furthy.xml
+Sitemap: https://saleshondaibrm.com/index.php/massodent.xml
+Sitemap: https://saleshondaibrm.com?sitemap.xml
+Sitemap: https://saleshondaibrm.com/index.php/sitemap.xml

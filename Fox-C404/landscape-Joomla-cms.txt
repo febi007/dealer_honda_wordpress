@@ -1,0 +1,1 @@
+/home/landscape/public_html/cms/configuration.php

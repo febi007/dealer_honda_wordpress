@@ -1,0 +1,1 @@
+/run/uuidd/html/painel/configuration.php

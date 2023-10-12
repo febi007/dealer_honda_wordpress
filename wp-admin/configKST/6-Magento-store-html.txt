@@ -1,0 +1,1 @@
+/usr/games/html/store/app/etc/local.xml

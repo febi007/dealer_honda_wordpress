@@ -1,0 +1,1 @@
+/var/backups/html/app/etc/local.xml

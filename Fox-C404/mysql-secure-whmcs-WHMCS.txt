@@ -1,0 +1,1 @@
+/home/mysql/public_html/secure/whmcs/configuration.php

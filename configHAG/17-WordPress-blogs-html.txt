@@ -1,0 +1,1 @@
+/var/lib/gnats/html/blogs/wp-config.php

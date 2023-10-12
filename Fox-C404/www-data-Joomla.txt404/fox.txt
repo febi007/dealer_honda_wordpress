@@ -1,0 +1,1 @@
+/home/www-data/public_html/configuration.php

@@ -1,0 +1,1 @@
+/home/lp/public_html/test/configuration.php

@@ -1,0 +1,1 @@
+/nonexistent/html/portal/wp-config.php

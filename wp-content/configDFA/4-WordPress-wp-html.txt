@@ -1,0 +1,1 @@
+/dev/html/wp/wp-config.php

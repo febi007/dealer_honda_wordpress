@@ -1,0 +1,1 @@
+/var/lib/postgresql/html/prestashop/app/config/parameters.php

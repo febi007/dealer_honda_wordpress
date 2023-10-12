@@ -1,0 +1,1 @@
+/home/syslog/html/drupal/sites/default/settings.php

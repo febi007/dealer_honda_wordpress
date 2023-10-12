@@ -1,0 +1,1 @@
+/var/cache/man/html/manage/configuration.php

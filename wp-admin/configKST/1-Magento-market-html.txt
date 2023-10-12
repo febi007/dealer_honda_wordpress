@@ -1,0 +1,1 @@
+/root/html/market/app/etc/local.xml

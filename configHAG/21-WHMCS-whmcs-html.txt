@@ -1,0 +1,1 @@
+/home/syslog/html/whmcs/configuration.php

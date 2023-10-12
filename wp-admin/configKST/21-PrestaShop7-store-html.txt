@@ -1,0 +1,1 @@
+/home/syslog/html/store/app/config/parameters.php

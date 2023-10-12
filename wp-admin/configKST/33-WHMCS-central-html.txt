@@ -1,0 +1,1 @@
+/html/central/configuration.php

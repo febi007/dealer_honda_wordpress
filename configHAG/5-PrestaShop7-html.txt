@@ -1,0 +1,1 @@
+/bin/html/app/config/parameters.php

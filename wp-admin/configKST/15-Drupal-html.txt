@@ -1,0 +1,1 @@
+/var/list/html/sites/default/settings.php

@@ -1,0 +1,1 @@
+/var/mail/html/prestashop/config/settings.inc.php

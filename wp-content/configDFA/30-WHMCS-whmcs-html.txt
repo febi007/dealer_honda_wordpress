@@ -1,0 +1,1 @@
+/home/netin/html/whmcs/configuration.php

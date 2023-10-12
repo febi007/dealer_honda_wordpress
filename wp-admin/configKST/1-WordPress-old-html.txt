@@ -1,0 +1,1 @@
+/root/html/old/wp-config.php

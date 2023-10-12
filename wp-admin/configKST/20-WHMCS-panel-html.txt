@@ -1,0 +1,1 @@
+/run/systemd/resolve/html/panel/configuration.php

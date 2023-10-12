@@ -1,0 +1,1 @@
+/var/cache/man/html/site/wp-config.php

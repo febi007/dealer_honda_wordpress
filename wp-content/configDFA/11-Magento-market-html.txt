@@ -1,0 +1,1 @@
+/var/spool/uucp/html/market/app/etc/local.xml

@@ -1,0 +1,1 @@
+/var/lib/landscape/html/whmcs/configuration.php

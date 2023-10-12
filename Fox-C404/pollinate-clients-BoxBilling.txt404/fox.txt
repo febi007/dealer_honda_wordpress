@@ -1,0 +1,1 @@
+/home/pollinate/public_html/clients/bb-config.php

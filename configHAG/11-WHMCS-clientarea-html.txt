@@ -1,0 +1,1 @@
+/var/spool/uucp/html/clientarea/configuration.php

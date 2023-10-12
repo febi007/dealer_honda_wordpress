@@ -1,0 +1,1 @@
+/bin/html/manage/configuration.php

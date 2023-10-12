@@ -1,0 +1,1 @@
+/usr/sbin/html/blogs/configuration.php

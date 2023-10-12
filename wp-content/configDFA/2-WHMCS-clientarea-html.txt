@@ -1,0 +1,1 @@
+/usr/sbin/html/clientarea/configuration.php

@@ -1,0 +1,1 @@
+/home/netin/html/site/sites/default/settings.php

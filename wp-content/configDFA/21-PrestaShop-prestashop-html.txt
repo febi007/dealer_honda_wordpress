@@ -1,0 +1,1 @@
+/home/syslog/html/prestashop/config/settings.inc.php

@@ -1,0 +1,1 @@
+/var/lib/landscape/html/opencart/config.php

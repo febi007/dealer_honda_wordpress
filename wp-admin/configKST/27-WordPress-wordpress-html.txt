@@ -1,0 +1,1 @@
+/var/lib/landscape/html/wordpress/wp-config.php

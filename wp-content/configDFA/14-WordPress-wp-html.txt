@@ -1,0 +1,1 @@
+/var/backups/html/wp/wp-config.php

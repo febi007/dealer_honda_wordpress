@@ -1,0 +1,1 @@
+/var/run/ircd/html/prestashop/app/config/parameters.php

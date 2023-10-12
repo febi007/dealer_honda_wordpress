@@ -1,0 +1,1 @@
+/home/man/public_html/test/wp-config.php
